@@ -1,0 +1,23 @@
+{
+  "name": "onchain-offchain-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "truffle-contract": "^3.0.1",
+    "web3": "^0.20.4",
+    "zeppelin-solidity": "^1.5.0"
+  }
+}
