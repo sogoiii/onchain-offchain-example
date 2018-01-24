@@ -1,6 +1,6 @@
 ## Purpose
 
-An example repo of that shows how to connect an offchain service to Ethereum (onchain). This repo was created to compliment [this blog post]().
+An example repo of that shows how to connect an offchain service to Ethereum (onchain). This repo was created to compliment [this blog post](https://medium.com/hello-sugoi/ethereum-communicating-with-the-off-chain-world-789fea13163b).
 
 ## Prerequisites
 
